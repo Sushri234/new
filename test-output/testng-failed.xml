@@ -7,9 +7,9 @@
         <methods>
           <include name="generateReport"/>
           <include name="beforeClass"/>
-          <include name="methodName"/>
           <include name="afterClass"/>
-          <include name="RegisterPageTestCase"/>
+          <include name="LoginPageTestCase"/>
+          <include name="methodName"/>
         </methods>
       </class> <!-- com.mohs10.scripts.HomeTest -->
     </classes>
