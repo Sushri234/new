@@ -18,8 +18,11 @@ public class readdata {
 		FileInputStream files= new FileInputStream("C:\\Users\\DELL\\Documents\\My sheet.xlsx");
 		XSSFWorkbook wb=new XSSFWorkbook(files);
 		Sheet s=wb.getSheet("sheet1");
-		Row r= s.getRow(5);
-		Cell c= r.getCell(2);
+		Row r= s.getRow(6);
+		Row r1 =s.getRow(2);
+		Cell c= r.getCell(1);
+		//Row r1 =s.getRow(2);
+		
 		//System.out.println(c.getStringCellValue());
 		 String address= c.getStringCellValue();
 	        

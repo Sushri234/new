@@ -20,7 +20,7 @@ public class writedata {
 		XSSFSheet sh = wb .createSheet();
 		
 		sh.createRow(0).createCell(0).setCellValue("Employee");
-		sh.createRow(1).createCell(0).setCellValue("Sushri");
+		sh.createRow(1).createCell(0).setCellValue("Shiney");
 		sh.createRow(2).createCell(0).setCellValue("Suparna");
 		sh.createRow(3).createCell(0).setCellValue("Srusti");
 		sh.createRow(4).createCell(0).setCellValue("Sweta");
