@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-20T18:08:23 IST" name="Default suite" finished-at="2023-02-20T18:08:28 IST" duration-ms="4693">
+    <groups>
+    </groups>
+    <test started-at="2023-02-20T18:08:23 IST" name="Default test" finished-at="2023-02-20T18:08:28 IST" duration-ms="4693">
+      <class name="Api.test.PostRequestUsing_ExternalJsonFile">
+        <test-method signature="External_jsonfile()[pri:0, instance:Api.test.PostRequestUsing_ExternalJsonFile@27462a88]" started-at="2023-02-20T18:08:23 IST" name="External_jsonfile" finished-at="2023-02-20T18:08:28 IST" duration-ms="4642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- External_jsonfile -->
+      </class> <!-- Api.test.PostRequestUsing_ExternalJsonFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
